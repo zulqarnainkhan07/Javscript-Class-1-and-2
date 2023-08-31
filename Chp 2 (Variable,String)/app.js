@@ -17,7 +17,7 @@ alert (message);
 // Q 4 Answer //
  var name="Hello There ...!\nMy Name is Zulqarnain Ahmed";
  var age= "I'm 19 Years old";
- var aim= "My aim is to become certified Website and Mobile/ios App developer";
+ var aim= "My aim is to become a certified Website and Mobile/ios App developer";
 
  alert (name);
  alert (age);
@@ -29,12 +29,12 @@ alert (message);
 
  // Q 6 Answer //
  var email="khanzulqarnain752@gmail.com";
- var text ="My Email adress is : ";
+ var text ="My Email address is : ";
  alert (text + email);
 
 // Q 7 Answer //
-var book ="I am trying to learn from the book A smarter way to learn JavaScript";
-alert (book);
+var book ="A smarter way to learn JavaScript";
+alert (I am trying to learn from the + book);
 
 // Q 8 Answer //
 document.write("<h1>Yah! I Can write HTML content through JavaScript</h1>");
