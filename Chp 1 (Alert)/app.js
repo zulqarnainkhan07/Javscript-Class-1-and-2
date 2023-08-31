@@ -16,6 +16,4 @@ alert ("Welcome to JS land....");
 alert ("Happy coding.!\n ▢ prevent this page from creating additional dialog");
 
 // Q5 Answer //
-let text1;
-let text2= prompt("Please enter your Message :");
-alert (text2);
+console.log("I can also run JavaScript through my Web browser Console ")
